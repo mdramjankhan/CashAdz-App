@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "474103783248",
+    "project_id": "cashadz-edf62",
+    "storage_bucket": "cashadz-edf62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474103783248:android:9924649a47e1f4c8145655",
+        "android_client_info": {
+          "package_name": "com.example.cash_adz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474103783248-4ouoq3elqoql7mah9393pvj33ojbg2lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cash_adz",
+            "certificate_hash": "92f08cba6691bdd03efea470d138d1ef41ea35c4"
+          }
+        },
+        {
+          "client_id": "474103783248-69vf5vmuubrek6suutqhu232s7i9grgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkujMBmv_Xbd8PreQkxfaI2vShql8lM50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474103783248-69vf5vmuubrek6suutqhu232s7i9grgm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474103783248-qstop2ia0vfrlh2p01vgumh771arcgpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cashAdz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
