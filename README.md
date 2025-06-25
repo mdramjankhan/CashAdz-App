@@ -1,16 +1,32 @@
-# cash_adz
+# 💰 CashAdz
 
-A new Flutter project.
+**Your time, your money.**  
+**CashAdz** is an earning app where users can make money by simply watching ads. Designed with a sleek Flutter UI, the app rewards users for every second they invest.
 
-## Getting Started
+## 📱 App Screenshots
+![WhatsApp Image 2025-06-26 at 00 30 32_77e4cfd8](https://github.com/user-attachments/assets/a1b7ecc7-4cb4-4083-bcff-ab411e0c5947)
+![WhatsApp Image 2025-06-26 at 00 30 33_9247bffd](https://github.com/user-attachments/assets/b3569c56-ca52-48b1-a61d-ed325f022820)
+![WhatsApp Image 2025-06-26 at 00 33 54_09291e79](https://github.com/user-attachments/assets/74d0ae1f-58c4-4270-be4f-eb54bfe6faa8)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- 📺 Watch ads and earn real rewards
+- 👛 Wallet system to track earnings
+- 🔄 Daily rewards & bonus opportunities
+- 💡 User-friendly and fast interface
+- 🔐 Secure login & authentication
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+- Flutter SDK
+- Android Studio or VS Code
+- Firebase account (if you're using it for auth/rewards)
+
+### Installation
+
+```bash
+git clone https://github.com/mdramjankhan/CashAdz.git
+cd cashadz
+flutter pub get
+flutter run
